@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/pl3281-typing-test/static/css/main.5f361e03.chunk.css",
+    "main.js": "/pl3281-typing-test/static/js/main.848e30d0.chunk.js",
+    "main.js.map": "/pl3281-typing-test/static/js/main.848e30d0.chunk.js.map",
+    "runtime-main.js": "/pl3281-typing-test/static/js/runtime-main.dc23e532.js",
+    "runtime-main.js.map": "/pl3281-typing-test/static/js/runtime-main.dc23e532.js.map",
+    "static/js/2.e6aadb93.chunk.js": "/pl3281-typing-test/static/js/2.e6aadb93.chunk.js",
+    "static/js/2.e6aadb93.chunk.js.map": "/pl3281-typing-test/static/js/2.e6aadb93.chunk.js.map",
+    "index.html": "/pl3281-typing-test/index.html",
+    "precache-manifest.cbb63db8c43e0d78df6c34c45ff61a3b.js": "/pl3281-typing-test/precache-manifest.cbb63db8c43e0d78df6c34c45ff61a3b.js",
+    "service-worker.js": "/pl3281-typing-test/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/pl3281-typing-test/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.e6aadb93.chunk.js.LICENSE.txt": "/pl3281-typing-test/static/js/2.e6aadb93.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/pl3281-typing-test/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dc23e532.js",
+    "static/js/2.e6aadb93.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.848e30d0.chunk.js"
+  ]
+}
